@@ -1,0 +1,8 @@
+{
+    "name": "thgs/base",
+    "autoload": {
+        "psr-0" : {
+            "thgs\\base" : "src"
+        }
+    }
+}
