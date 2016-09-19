@@ -4,5 +4,10 @@
         "psr-0" : {
             "thgs\\base" : "src"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.1"
+        }
     }
 }
