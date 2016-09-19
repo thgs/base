@@ -5,10 +5,5 @@
             "thgs\\base" : "src"
         }
     },
-    "version": "0.0.1",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.0.1-dev"
-        }
-    }
+    "version": "1.0.0",
 }
